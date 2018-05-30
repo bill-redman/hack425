@@ -1,0 +1,6 @@
+{
+    "name":"Arcturian",
+    "description":"test app",
+    "icon":"http://universeinsideyou.net/wp-content/uploads/2017/09/Arcturian-Aliens-Facts.jpg",
+    "onclick":"https://sbm-it.github.io/fibonacci/fib.js"
+}
